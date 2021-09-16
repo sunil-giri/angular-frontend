@@ -1,0 +1,18 @@
+ul {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+}
+ul li {
+  text-decoration: none;
+  list-style: none;
+  padding-right: 20px;
+}
+
+main {
+  margin-top: 100px;
+}
+
+footer {
+  margin-top: 47vh;
+}
